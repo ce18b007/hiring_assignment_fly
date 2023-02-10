@@ -121,4 +121,4 @@ Best regards,
 
 #### Rails App URL
 
-Once you've deployed your Rails app, put the link here: `[fly-builder-ancient-hill-3727.fly.dev](https://restless-glitter-972.fly.dev/)`
+Once you've deployed your Rails app, put the link here: [fly-builder-ancient-hill-3727.fly.dev](https://restless-glitter-972.fly.dev/)
