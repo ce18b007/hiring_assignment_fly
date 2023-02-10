@@ -6,7 +6,9 @@ I'm sorry to hear that you're having trouble deploying your app. The message you
 
 The cause of the Virtual Machine error can be determined by sharing the output of the 'flyctl logs' command and the 'fly.toml' file. A screenshot of the result of running "flyctl releases list" can also provide more insight into the source of the error, whether it be due to internal issues or resource limitations.
 
-The issue of "pending v83 failed - Failed due to unhealthy allocations - not rolling back to stable job version 83 as current job has same specification" may be associated with the Virtual Machine count. The unhealthy allocation error suggests that the app started but was unable to pass our health check tests.
+The issue of "pending v83 failed 
+- Failed due to unhealthy allocations 
+- not rolling back to stable job version 83 as current job has same specification" may be associated with the Virtual Machine count. The unhealthy allocation error suggests that the app started but was unable to pass our health check tests.
 
 To help resolve the issue, I would suggest checking the following:
 
