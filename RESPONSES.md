@@ -26,6 +26,7 @@ https://community.fly.io/t/source-of-deployment-failing-due-to-unhealthy-allocat
 If you're still encountering issues after checking these items, please don't hesitate to reach out to us again with additional details or any further questions you may have. We're here to help. 
 
 Best regards,
+
 Chakri
 
 ---
@@ -52,8 +53,10 @@ If you're still encountering issues after following these steps,let me know and 
 
 Thank you for bringing this to our attention, and I look forward to hearing from you soon.
 
-Best regards, 
-Chakri Kanapur
+Best regards,
+  
+chakri
+  
 ---
   
 #### Community Forum Response
