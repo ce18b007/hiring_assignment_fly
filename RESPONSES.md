@@ -1,6 +1,6 @@
 #### Support Email Response
 
-Subject: Troubleshooting deployment issue
+Subject: Regarding Troubleshooting deployment issue
 
 Hello,
 
@@ -25,13 +25,14 @@ https://community.fly.io/t/source-of-deployment-failing-due-to-unhealthy-allocat
 
 If you're still encountering issues after checking these items, please don't hesitate to reach out to us again with additional details or any further questions you may have. We're here to help. 
 
-Best regards, 
-Chakri Kanapur
+Best regards,
+Chakri
+
 ---
 
 #### Support Email Troubleshooting steps
 
-Subject: Troubleshooting Steps for Deployment Failure Error
+Subject: Regarding Troubleshooting Steps for Deployment Failure Error
 
 To help resolve this issue, I recommend the following troubleshooting steps that may help. This is what I would do:
 
